@@ -1,0 +1,11 @@
+.boxa {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    position: relative;
+}
+.texta {
+    position: absolute;
+    top: 170px;
+    left: 157px;
+}

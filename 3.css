@@ -1,0 +1,143 @@
+.boxes {
+    display:flex;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    right:  15px;
+    width: 200px;
+}
+
+
+
+.car1 {
+    flex: 1;
+border: 1px solid gray;
+border-radius: 5px;
+width:440px;
+height:420px;
+}
+.price {
+    display:flex;
+}
+.price1 {
+    margin-right: 10px;
+    padding: 5px;
+}
+.price2 {
+    background-color: rgb(255, 195, 14);
+    border-radius: 5px;
+    padding: 5px;
+}
+.carname {
+    color:blue;
+    margin-left: 5px;
+}
+.information {
+margin-top: 40px;
+}
+.city {
+    color:gray;
+    font-size: small;
+    margin-top: -10px;
+    margin-left: 5px;
+    margin-bottom: -5px;
+}
+.date {
+    color:gray;
+    font-size: small;
+    margin-top: -5px;
+    margin-left: 5px;
+}
+.description {
+    margin-top: -10px;
+    margin-left: 5px;
+}
+.kubok {
+    margin-left: 200px;
+}
+
+
+.car2 {
+    flex: 1;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin-right: 20px;
+    margin-left: 20px;
+    width:440px;
+height:420px;
+}
+.price22 {
+    display:flex;
+}
+.price21 {
+    margin-right: 10px;
+    padding: 5px;
+}
+.price23 {
+    background-color: rgb(255, 195, 14);
+    border-radius: 5px;
+    padding: 5px;
+}
+.kubok2 {
+    margin-left: 200px;
+}
+
+
+.car3 {
+    flex: 1;
+    border: 1px solid gray;
+    border-radius: 5px;
+    width:440px;
+height:420px;
+}
+.price32 {
+    display:flex;
+}
+.price31 {
+    margin-right: 10px;
+    padding: 5px;
+}
+.newdiler {
+    display:flex;
+}
+.new {
+    background-color: rgb(13, 206, 13);
+    margin-left:5px;
+    margin-right: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: small;
+}
+.diler {
+    color: white;
+    background-color: gray;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: small;
+}
+.kubok3 {
+    margin-left: 200px;
+}
+.date3 {
+    color:gray;
+    font-size: small;
+    margin-top: -15px;
+    margin-left: 5px;
+}
+.city3 {
+    color:gray;
+    font-size: small;
+    margin-left: 5px;
+    margin-top: -10px;
+}
+
+
+
+.img {
+    width: 200px;
+    height: 200px;
+}
+
+
+
+

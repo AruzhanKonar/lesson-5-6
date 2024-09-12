@@ -1,0 +1,29 @@
+.container1 {
+    display:flex;
+}
+.box1 {
+    flex: 1;
+    background: aqua;
+}
+.box2 {
+    flex: 1;
+    background: aqua;
+    text-align: center;
+    margin-left: 40px;
+}
+.box3 {
+    flex: 1;
+    background: aqua;
+    height: 500px;
+    text-align: right;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+.box4 {
+    flex: 1;
+    background: aqua;
+    text-align: center;
+}
+p {
+    margin-top: 200px;
+}

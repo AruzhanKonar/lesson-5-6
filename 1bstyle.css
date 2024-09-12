@@ -1,0 +1,35 @@
+.boxes {
+display: flex;
+}
+.box1{
+    flex: 1;
+    width: 70px;
+    height: 200px;
+    background: aqua;
+    text-align: center;
+}
+.box2{
+    flex: 2;
+    width: 150px;
+    height: 200px;
+    background: aqua;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: center;
+}
+.box3{
+    flex: 1;
+    width: 70px;
+    height: 200px;
+    background: aqua;
+    text-align: center;
+}
+.text1{
+    margin-top: 90px;
+}
+.text2{
+    margin-top: 90px;
+}
+.text3{
+    margin-top: 90px;
+}
